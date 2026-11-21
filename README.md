@@ -12,6 +12,7 @@ I enjoy building applications and learning how software works, from data structu
 
 - [Portfolio](https://github.com/a-shekhar/portfolio) — a React portfolio; [view the site](https://aditya-portfolio-azure-two.vercel.app/).
 - [DSA](https://github.com/a-shekhar/dsa) — Java problem solutions, complexity analysis, and study guides.
+- [AI learning](https://github.com/a-shekhar/ai-tutorial) — LLM engineering course exercises, with planned Agentic AI, Spring AI, and project sections.
 - [Spring Boot learning archive](https://github.com/a-shekhar/spring-boot-tutorial) — course exercises and practice projects.
 - [Microservices tutorial](https://github.com/a-shekhar/microservices-tutorial) — Spring-based microservices learning exercises.
 - [LeetCode](https://github.com/a-shekhar/LeetCode) and [GeeksforGeeks](https://github.com/a-shekhar/GeeksForGeeks) — coding practice.
