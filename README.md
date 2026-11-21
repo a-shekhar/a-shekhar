@@ -11,7 +11,7 @@ I enjoy building applications and learning how software works, from data structu
 ## Explore my work
 
 - [Portfolio](https://github.com/a-shekhar/portfolio) — a React portfolio; [view the site](https://aditya-portfolio-azure-two.vercel.app/).
-- [DSA](https://github.com/a-shekhar/dsa) — Java practice, original solutions, and study notes.
+- [DSA](https://github.com/a-shekhar/dsa) — a Java data structures and algorithms learning workspace.
 - [Spring Boot learning archive](https://github.com/a-shekhar/spring-boot-tutorial) — course exercises and practice projects.
 - [Microservices tutorial](https://github.com/a-shekhar/microservices-tutorial) — Spring-based microservices learning exercises.
 - [LeetCode](https://github.com/a-shekhar/LeetCode) and [GeeksforGeeks](https://github.com/a-shekhar/GeeksForGeeks) — coding practice.
